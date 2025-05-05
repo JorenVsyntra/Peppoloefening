@@ -1,0 +1,13 @@
+{
+    "name": "local/peppoloefening",
+    "description": "Peppol exercise project",
+    "authors": [
+        {
+            "name": "Developer",
+            "email": "dev@example.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
